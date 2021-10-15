@@ -15,7 +15,7 @@ type DayPlane struct {
 func (dp DayPlane) Markdown() string {
 	str := fmt.Sprintf("#### %s\n\n", dp.title)
 	for _, v := range dp.problems {
-		str += fmt.Sprintf("- [ ] [%s](https://leetcode-cn.com/%s) [%s] [%s]\n\n", v.title, v.url, v.level, strings.Join(v.tags, ", "))
+		str += fmt.Sprintf("- [ ] [%s](https://leetcode-cn.com%s) [%s] [%s]\n\n", v.title, v.url, v.level, strings.Join(v.tags, ", "))
 	}
 	return str
 }
