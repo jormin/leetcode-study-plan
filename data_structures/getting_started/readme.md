@@ -1,4 +1,4 @@
-[数据结构](https://leetcode-cn.com/study-plan/data-structures/)
+[数据结构入门](https://leetcode-cn.com/study-plan/data-structures/)
 -----
 
 在计算机科学中，数据结构是计算机中存储、组织数据的方式。

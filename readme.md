@@ -8,9 +8,13 @@ Leet Code Study Plan
 
 Leet Code 学习计划
 
-[数据结构](data_structures/readme.md)
+[数据结构](https://leetcode-cn.com/study-plan/data-structures/)
 -----
 
 在计算机科学中，数据结构是计算机中存储、组织数据的方式。
 
 正确的数据结构选择可以提高算法的效率。在计算机程序设计的过程中，选择适当的数据结构是一项重要工作。许多大型系统的编写经验显示，程序设计的困难程度与最终成果的质量与表现，取决于是否选择了最适合的数据结构。
+
+- [ ] [数据结构入门](data_structures/getting_started/readme.md)
+
+- [ ] [数据结构基础](data_structures/base/readme.md)
