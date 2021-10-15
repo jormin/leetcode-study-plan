@@ -9,7 +9,7 @@
 
 - [x] [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) [简单] [数组, 哈希表, 排序]
 
-- [ ] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) [简单] [数组, 分治, 动态规划]
+- [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) [简单] [数组, 分治, 动态规划]
 
 
 #### 第 2 天：数组
