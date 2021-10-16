@@ -14,7 +14,7 @@
 
 #### 第 2 天：数组
 
-- [ ] [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) [简单] [数组, 哈希表]
+- [x] [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) [简单] [数组, 哈希表]
 
 - [ ] [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) [简单] [数组, 双指针, 排序]
 
