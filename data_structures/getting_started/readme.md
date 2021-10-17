@@ -23,7 +23,7 @@
 
 - [x] [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) [简单] [数组, 哈希表, 双指针, 二分查找, 排序]
 
-- [ ] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) [简单] [数组, 动态规划]
+- [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) [简单] [数组, 动态规划]
 
 
 #### 第 4 天：数组
