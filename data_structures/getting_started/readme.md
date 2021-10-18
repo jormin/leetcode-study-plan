@@ -30,7 +30,7 @@
 
 - [x] [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) [简单] [数组, 矩阵, 模拟]
 
-- [ ] [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) [简单] [数组, 动态规划]
+- [x] [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) [简单] [数组, 动态规划]
 
 
 #### 第 5 天：数组
