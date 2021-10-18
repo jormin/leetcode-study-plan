@@ -28,7 +28,7 @@
 
 #### 第 4 天：数组
 
-- [ ] [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) [简单] [数组, 矩阵, 模拟]
+- [x] [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) [简单] [数组, 矩阵, 模拟]
 
 - [ ] [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) [简单] [数组, 动态规划]
 
