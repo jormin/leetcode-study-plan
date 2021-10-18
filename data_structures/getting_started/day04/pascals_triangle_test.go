@@ -33,6 +33,11 @@ func TestGenerate(t *testing.T) {
 				{1},
 			},
 		},
+		{
+			name: "03",
+			args: args{numRows: 0},
+			want: nil,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
