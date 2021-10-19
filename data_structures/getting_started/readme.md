@@ -37,7 +37,7 @@
 
 - [x] [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) [中等] [数组, 哈希表, 矩阵]
 
-- [ ] [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) [中等] [数组, 哈希表, 矩阵]
+- [x] [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) [中等] [数组, 哈希表, 矩阵]
 
 
 #### 第 6 天：字符串
