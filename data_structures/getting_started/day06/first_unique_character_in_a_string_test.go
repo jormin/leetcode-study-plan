@@ -22,6 +22,11 @@ func TestFirstUniqChar(t *testing.T) {
 			args: args{s: "loveleetcode"},
 			want: 2,
 		},
+		{
+			name: "03",
+			args: args{s: "lovelove"},
+			want: -1,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
