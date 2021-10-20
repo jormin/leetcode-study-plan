@@ -40,6 +40,14 @@ func TestTwoSum(t *testing.T) {
 			},
 			want: []int{0, 1},
 		},
+		{
+			name: "04",
+			args: args{
+				nums:   []int{},
+				target: 1,
+			},
+			want: nil,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
