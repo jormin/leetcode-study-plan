@@ -42,7 +42,7 @@
 
 #### 第 6 天：字符串
 
-- [ ] [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) [简单] [队列, 哈希表, 字符串, 计数]
+- [x] [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) [简单] [队列, 哈希表, 字符串, 计数]
 
 - [ ] [383. 赎金信](https://leetcode-cn.com/problems/ransom-note/) [简单] [哈希表, 字符串, 计数]
 
