@@ -46,7 +46,7 @@
 
 - [x] [383. 赎金信](https://leetcode-cn.com/problems/ransom-note/) [简单] [哈希表, 字符串, 计数]
 
-- [ ] [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) [简单] [哈希表, 字符串, 排序]
+- [x] [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) [简单] [哈希表, 字符串, 排序]
 
 
 #### 第 7 天：链表
