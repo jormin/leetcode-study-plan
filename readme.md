@@ -18,3 +18,8 @@ Leet Code 学习计划
 - [ ] [数据结构入门](data_structures/getting_started/readme.md)
 
 - [ ] [数据结构基础](data_structures/base/readme.md)
+
+License
+-------
+
+under the [MIT](./LICENSE) License.
