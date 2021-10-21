@@ -53,7 +53,7 @@
 
 - [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) [简单] [哈希表, 链表, 双指针]
 
-- [ ] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [简单] [递归, 链表]
+- [x] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [简单] [递归, 链表]
 
 - [ ] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) [简单] [递归, 链表]
 
