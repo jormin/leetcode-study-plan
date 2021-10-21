@@ -55,7 +55,7 @@
 
 - [x] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [简单] [递归, 链表]
 
-- [ ] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) [简单] [递归, 链表]
+- [x] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) [简单] [递归, 链表]
 
 
 #### 第 8 天：链表
