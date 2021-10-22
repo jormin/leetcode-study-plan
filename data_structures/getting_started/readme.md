@@ -62,7 +62,7 @@
 
 - [x] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [简单] [递归, 链表]
 
-- [ ] [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) [简单] [链表]
+- [x] [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) [简单] [链表]
 
 
 #### 第 9 天：栈 / 队列
