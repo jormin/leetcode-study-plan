@@ -19,6 +19,15 @@ Leet Code 学习计划
 
 - [ ] [数据结构基础](data_structures/base/readme.md)
 
+[算法](https://leetcode-cn.com/study-plan/algorithms/)
+-----
+
+在数学和计算机科学之中，算法是一个被定义好的、计算机可施行之指示的有限步骤或次序，常用于计算、数据处理和自动推理。作为一个有效方法，算法被用于计算函数，它包含了一系列定义清晰的指令，并可于有限的时间及空间内清楚的表述出来。
+
+- [ ] [算法入门](algorithms/getting_started/readme.md)
+
+- [ ] [算法基础](algorithms/base/readme.md)
+
 License
 -------
 
