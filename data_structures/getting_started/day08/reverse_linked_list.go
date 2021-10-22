@@ -1,10 +1,5 @@
 package day08
 
-import (
-	"fmt"
-	"strings"
-)
-
 // 给你单链表的头节点 head ，请你反转链表，并返回反转后的链表。
 //
 // 示例 1：
@@ -33,16 +28,6 @@ import (
 type ListNode struct {
 	Val  int
 	Next *ListNode
-}
-
-func (l *ListNode) String() string {
-	var vals []string
-	for l != nil {
-		fmt.Println(l.Val)
-		vals = append(vals, fmt.Sprintf("%d", l.Val))
-		l = l.Next
-	}
-	return strings.Join(vals, ",")
 }
 
 // reverseList 反转链表
