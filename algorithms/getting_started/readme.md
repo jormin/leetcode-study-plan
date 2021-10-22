@@ -5,7 +5,7 @@
 
 #### 第 1 天：二分查找
 
-- [ ] [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) [简单] [数组, 二分查找]
+- [x] [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) [简单] [数组, 二分查找]
 
 - [ ] [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) [简单] [二分查找, 交互]
 
