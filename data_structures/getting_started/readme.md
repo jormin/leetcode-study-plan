@@ -78,7 +78,7 @@
 
 - [x] [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) [简单] [栈, 树, 深度优先搜索, 二叉树]
 
-- [ ] [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) [简单] [栈, 树, 深度优先搜索, 二叉树]
+- [x] [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) [简单] [栈, 树, 深度优先搜索, 二叉树]
 
 
 #### 第 11 天：树
