@@ -74,7 +74,7 @@
 
 #### 第 10 天：树
 
-- [ ] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) [简单] [栈, 树, 深度优先搜索, 二叉树]
+- [x] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) [简单] [栈, 树, 深度优先搜索, 二叉树]
 
 - [ ] [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) [简单] [栈, 树, 深度优先搜索, 二叉树]
 
