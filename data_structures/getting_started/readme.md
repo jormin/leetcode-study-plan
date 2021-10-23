@@ -67,7 +67,7 @@
 
 #### 第 9 天：栈 / 队列
 
-- [ ] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) [简单] [栈, 字符串]
+- [x] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) [简单] [栈, 字符串]
 
 - [ ] [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) [简单] [栈, 设计, 队列]
 
