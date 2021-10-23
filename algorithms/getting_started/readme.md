@@ -16,7 +16,7 @@
 
 - [x] [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) [简单] [数组, 双指针, 排序]
 
-- [ ] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) [中等] [数组, 数学, 双指针]
+- [x] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) [中等] [数组, 数学, 双指针]
 
 
 #### 第 3 天：双指针
