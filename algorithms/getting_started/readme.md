@@ -23,7 +23,7 @@
 
 - [x [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) [简单] [数组, 双指针]
 
-- [ ] [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) [简单] [数组, 双指针, 二分查找]
+- [x] [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) [简单] [数组, 双指针, 二分查找]
 
 
 #### 第 4 天：双指针
