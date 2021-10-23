@@ -103,29 +103,6 @@ func TestPreorderTraversal(t *testing.T) {
 			},
 			want: []int{1, 4, 2, 3},
 		},
-		{
-			name: "06",
-			args: args{
-				root: &TreeNode{
-					Val: 1,
-					Left: &TreeNode{
-						Val: 4,
-						Left: &TreeNode{
-							Val:   2,
-							Left:  nil,
-							Right: nil,
-						},
-						Right: nil,
-					},
-					Right: &TreeNode{
-						Val:   3,
-						Left:  nil,
-						Right: nil,
-					},
-				},
-			},
-			want: []int{1, 4, 2, 3},
-		},
 	}
 	for _, tt := range tests {
 		t.Run(
