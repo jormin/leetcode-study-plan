@@ -69,7 +69,7 @@
 
 - [x] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) [简单] [栈, 字符串]
 
-- [ ] [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) [简单] [栈, 设计, 队列]
+- [x] [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) [简单] [栈, 设计, 队列]
 
 
 #### 第 10 天：树
