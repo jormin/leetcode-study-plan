@@ -85,7 +85,7 @@
 
 - [x] [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) [中等] [树, 广度优先搜索, 二叉树]
 
-- [ ] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
+- [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
 
 - [ ] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
 
