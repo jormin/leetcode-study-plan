@@ -87,7 +87,7 @@
 
 - [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
 
-- [ ] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
+- [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
 
 
 #### 第 12 天：树
