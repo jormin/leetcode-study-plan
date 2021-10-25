@@ -30,7 +30,7 @@
 
 - [x] [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) [简单] [递归, 双指针, 字符串]
 
-- [ ] [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) [简单] [双指针, 字符串]
+- [x] [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) [简单] [双指针, 字符串]
 
 
 #### 第 5 天：双指针
