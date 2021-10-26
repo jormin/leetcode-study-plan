@@ -92,7 +92,7 @@
 
 #### 第 12 天：树
 
-- [ ] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
+- [x] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
 
 - [ ] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) [简单] [树, 深度优先搜索, 二叉树]
 
