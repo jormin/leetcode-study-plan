@@ -35,7 +35,7 @@
 
 #### 第 5 天：双指针
 
-- [*] [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) [简单] [链表, 双指针]
+- [x] [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) [简单] [链表, 双指针]
 
 - [ ] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) [中等] [链表, 双指针]
 

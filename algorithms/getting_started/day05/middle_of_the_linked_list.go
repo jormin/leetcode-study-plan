@@ -33,14 +33,10 @@ func middleNode(head *ListNode) *ListNode {
 	if head == nil {
 		return nil
 	}
-	tmp := head
-	num := 0
-	for tmp != nil {
-		num++
-		tmp = tmp.Next
+	fast, slow := head, head
+	for fast != nil && fast.Next != nil {
+		fast = fast.Next.Next
+		slow = slow.Next
 	}
-	for i := 0; i < num/2; i++ {
-		head = head.Next
-	}
-	return head
+	return slow
 }
