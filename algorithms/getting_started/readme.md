@@ -44,7 +44,7 @@
 
 - [x] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) [中等] [哈希表, 字符串, 滑动窗口]
 
-- [ ] [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) [中等] [哈希表, 双指针, 字符串, 滑动窗口]
+- [x] [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) [中等] [哈希表, 双指针, 字符串, 滑动窗口]
 
 
 #### 第 7 天：广度优先搜索 / 深度优先搜索
