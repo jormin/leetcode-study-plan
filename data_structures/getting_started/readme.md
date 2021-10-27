@@ -101,7 +101,7 @@
 
 - [x] [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) [简单] [树, 二叉搜索树, 二叉树]
 
-- [ ] [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) [中等] [树, 二叉搜索树, 二叉树]
+- [x] [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) [中等] [树, 二叉搜索树, 二叉树]
 
 
 #### 第 14 天：树
