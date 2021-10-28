@@ -51,7 +51,7 @@
 
 - [x] [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/) [简单] [深度优先搜索, 广度优先搜索, 数组, 矩阵]
 
-- [ ] [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) [中等] [深度优先搜索, 广度优先搜索, 并查集, 数组, 矩阵]
+- [x] [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) [中等] [深度优先搜索, 广度优先搜索, 并查集, 数组, 矩阵]
 
 
 #### 第 8 天：广度优先搜索 / 深度优先搜索
