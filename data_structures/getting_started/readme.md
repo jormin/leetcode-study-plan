@@ -110,4 +110,4 @@
 
 - [x] [653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉搜索树, 哈希表, 双指针, 二叉树]
 
-- [ ] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [简单] [树, 深度优先搜索, 二叉搜索树, 二叉树]
+- [x] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [简单] [树, 深度优先搜索, 二叉搜索树, 二叉树]
