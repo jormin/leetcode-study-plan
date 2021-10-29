@@ -56,7 +56,7 @@
 
 #### 第 8 天：广度优先搜索 / 深度优先搜索
 
-- [ ] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
+- [x] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) [简单] [树, 深度优先搜索, 广度优先搜索, 二叉树]
 
 - [ ] [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) [中等] [树, 深度优先搜索, 广度优先搜索, 二叉树]
 
