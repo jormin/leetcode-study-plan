@@ -1,9 +1,5 @@
 package day01
 
-import (
-	"sort"
-)
-
 // 给定一个非空整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。
 //
 // 说明：
@@ -23,13 +19,9 @@ import (
 
 // singleNumber 只出现一次的数字
 func singleNumber(nums []int) int {
-	sort.Ints(nums)
-	for i := 0; i < len(nums); i++ {
-		if i < len(nums)-1 && nums[i] == nums[i+1] {
-			i++
-			continue
-		}
-		return nums[i]
+	ans := 0
+	for _, v := range nums {
+		ans ^= v
 	}
-	return 0
+	return ans
 }
