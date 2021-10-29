@@ -11,7 +11,7 @@
 
 - [x] [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) [简单] [数组, 哈希表, 分治, 计数, 排序]
 
-- [ ] [15. 三数之和](https://leetcode-cn.com/problems/3sum/) [中等] [数组, 双指针, 排序]
+- [x] [15. 三数之和](https://leetcode-cn.com/problems/3sum/) [中等] [数组, 双指针, 排序]
 
 
 #### 第 2 天：数组
