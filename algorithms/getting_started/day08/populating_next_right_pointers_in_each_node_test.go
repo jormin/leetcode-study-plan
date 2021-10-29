@@ -76,7 +76,6 @@ func TestConnect(t *testing.T) {
 		t.Run(
 			tt.name, func(t *testing.T) {
 				if got := connect(tt.args.root); !reflect.DeepEqual(got, tt.want) {
-					got.print()
 					t.Errorf("connect() = %v, want %v", got, tt.want)
 				}
 			},
