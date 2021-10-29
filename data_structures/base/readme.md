@@ -7,7 +7,7 @@
 
 #### 第 1 天：数组
 
-- [ ] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) [简单] [位运算, 数组]
+- [x] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) [简单] [位运算, 数组]
 
 - [ ] [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) [简单] [数组, 哈希表, 分治, 计数, 排序]
 
