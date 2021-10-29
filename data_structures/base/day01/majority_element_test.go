@@ -1,0 +1,40 @@
+package day01
+
+import "testing"
+
+// TestMajorityElement 测试多数元素
+func TestMajorityElement(t *testing.T) {
+	type args struct {
+		nums []int
+	}
+	tests := []struct {
+		name string
+		args args
+		want int
+	}{
+		{
+			name: "01",
+			args: args{nums: []int{3, 2, 3}},
+			want: 3,
+		},
+		{
+			name: "02",
+			args: args{nums: []int{2, 2, 1, 1, 1, 2, 2}},
+			want: 2,
+		},
+		{
+			name: "03",
+			args: args{nums: nil},
+			want: 0,
+		},
+	}
+	for _, tt := range tests {
+		t.Run(
+			tt.name, func(t *testing.T) {
+				if got := majorityElement(tt.args.nums); got != tt.want {
+					t.Errorf("majorityElement() = %v, want %v", got, tt.want)
+				}
+			},
+		)
+	}
+}
