@@ -16,7 +16,7 @@
 
 #### 第 2 天：数组
 
-- [ ] [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) [中等] [数组, 双指针, 排序]
+- [x] [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) [中等] [数组, 双指针, 排序]
 
 - [ ] [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) [中等] [数组, 排序]
 
