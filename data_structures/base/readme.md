@@ -18,7 +18,7 @@
 
 - [x] [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) [中等] [数组, 双指针, 排序]
 
-- [ ] [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) [中等] [数组, 排序]
+- [x] [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) [中等] [数组, 排序]
 
 - [ ] [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/) [简单] [设计, 数组, 哈希表, 链表, 哈希函数]
 
