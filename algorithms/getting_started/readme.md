@@ -63,7 +63,7 @@
 
 #### 第 9 天：广度优先搜索 / 深度优先搜索
 
-- [ ] [542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/) [中等] [广度优先搜索, 数组, 动态规划, 矩阵]
+- [x] [542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/) [中等] [广度优先搜索, 数组, 动态规划, 矩阵]
 
 - [ ] [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) [中等] [广度优先搜索, 数组, 矩阵]
 
