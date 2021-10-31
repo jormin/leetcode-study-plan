@@ -27,7 +27,7 @@
 
 - [x] [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) [简单] [数组, 动态规划]
 
-- [ ] [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) [中等] [数组, 数学, 矩阵]
+- [x] [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) [中等] [数组, 数学, 矩阵]
 
 - [ ] [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) [中等] [数组, 矩阵, 模拟]
 
