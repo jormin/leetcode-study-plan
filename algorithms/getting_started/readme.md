@@ -72,7 +72,7 @@
 
 - [x] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [简单] [递归, 链表]
 
-- [ ] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [简单] [递归, 链表]
+- [x] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [简单] [递归, 链表]
 
 
 #### 第 11 天：递归 / 回溯
