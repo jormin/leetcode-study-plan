@@ -29,7 +29,7 @@
 
 - [x] [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) [中等] [数组, 数学, 矩阵]
 
-- [ ] [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) [中等] [数组, 矩阵, 模拟]
+- [x] [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) [中等] [数组, 矩阵, 模拟]
 
 
 #### 第 4 天：数组
