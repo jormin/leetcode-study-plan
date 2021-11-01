@@ -79,7 +79,7 @@
 
 - [x] [77. 组合](https://leetcode-cn.com/problems/combinations/) [中等] [数组, 回溯]
 
-- [ ] [46. 全排列](https://leetcode-cn.com/problems/permutations/) [中等] [数组, 回溯]
+- [x] [46. 全排列](https://leetcode-cn.com/problems/permutations/) [中等] [数组, 回溯]
 
 - [x] [784. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) [中等] [位运算, 字符串, 回溯]
 
