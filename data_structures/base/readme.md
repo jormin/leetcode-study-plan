@@ -36,7 +36,7 @@
 
 - [x] [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) [中等] [数组, 二分查找, 分治, 矩阵]
 
-- [ ] [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) [中等] [贪心, 数组, 动态规划, 排序]
+- [x] [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) [中等] [贪心, 数组, 动态规划, 排序]
 
 
 #### 第 5 天：数组
