@@ -86,7 +86,7 @@
 
 #### 第 12 天：动态规划
 
-- [ ] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) [简单] [记忆化搜索, 数学, 动态规划]
+- [x] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) [简单] [记忆化搜索, 数学, 动态规划]
 
 - [ ] [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) [中等] [数组, 动态规划]
 
