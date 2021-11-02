@@ -41,7 +41,7 @@
 
 #### 第 5 天：数组
 
-- [ ] [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) [中等] [贪心, 数组]
+- [x] [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) [中等] [贪心, 数组]
 
 - [ ] [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) [中等] [数组, 前缀和]
 
