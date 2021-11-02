@@ -43,7 +43,7 @@
 
 - [x] [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) [中等] [贪心, 数组]
 
-- [ ] [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) [中等] [数组, 前缀和]
+- [x] [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) [中等] [数组, 前缀和]
 
 - [ ] [560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) [中等] [数组, 哈希表, 前缀和]
 
