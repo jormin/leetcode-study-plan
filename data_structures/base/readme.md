@@ -52,7 +52,7 @@
 
 - [x] [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/) [简单] [数学, 字符串, 模拟]
 
-- [ ] [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) [简单] [贪心, 哈希表, 字符串]
+- [x] [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) [简单] [贪心, 哈希表, 字符串]
 
 
 #### 第 7 天：字符串
