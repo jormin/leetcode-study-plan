@@ -2,7 +2,8 @@ package day13
 
 import "testing"
 
-func Test_isPowerOfTwo(t *testing.T) {
+// TestIsPowerOfTwo 测试2 的幂
+func TestIsPowerOfTwo(t *testing.T) {
 	type args struct {
 		n int
 	}
