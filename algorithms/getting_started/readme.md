@@ -95,7 +95,7 @@
 
 #### 第 13 天：位运算
 
-- [ ] [231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/) [简单] [位运算, 递归, 数学]
+- [x] [231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/) [简单] [位运算, 递归, 数学]
 
 - [ ] [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) [简单] [位运算]
 
