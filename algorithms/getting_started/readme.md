@@ -104,4 +104,4 @@
 
 - [x] [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) [简单] [位运算, 分治]
 
-- [ ] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) [简单] [位运算, 数组]
+- [x] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) [简单] [位运算, 数组]
