@@ -2,7 +2,7 @@ package day14
 
 import "testing"
 
-// 测试颠倒二进制位
+// TestReverseBits 测试颠倒二进制位
 func TestReverseBits(t *testing.T) {
 	type args struct {
 		num uint32
