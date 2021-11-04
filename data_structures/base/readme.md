@@ -57,7 +57,7 @@
 
 #### 第 7 天：字符串
 
-- [ ] [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/) [简单] [哈希表, 字符串]
+- [x] [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/) [简单] [哈希表, 字符串]
 
 - [ ] [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) [中等] [贪心, 哈希表, 双指针, 字符串]
 
